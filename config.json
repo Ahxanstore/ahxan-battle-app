@@ -1,0 +1,101 @@
+{
+  "appName": "Ahxan Battle",
+  "appDescription": "Welcome to Ahxan Battle. Enjoy an action-packed gaming experience with exciting battles, smooth gameplay, and amazing features.",
+  "version": "1.0.0",
+  "releaseDate": "2026-06-13",
+  "developer": "Ahxanstore",
+  "website": "https://github.com/Ahxanstore/ahxan-battle-app",
+  "downloadUrl": "https://www.mediafire.com/file/3ed1f3ytgv0meyx/Ahxan+battle.apk/file",
+  "logo": {
+    "filename": "1000143019.jpg",
+    "size": "220px",
+    "format": "jpg"
+  },
+  "theme": {
+    "backgroundColor": "#0A0A0A",
+    "primaryColor": "#007BFF",
+    "secondaryColor": "#0056b3",
+    "textColor": "#FFFFFF",
+    "accentColor": "#00d4ff",
+    "cardBackground": "#1a1a1a",
+    "borderColor": "#333"
+  },
+  "systemRequirements": {
+    "android": "5.0+",
+    "storage": "150MB",
+    "internet": "Required"
+  },
+  "features": [
+    {
+      "title": "Lightning Fast",
+      "description": "Experience smooth and blazing fast gameplay with optimized performance",
+      "icon": "fa-bolt"
+    },
+    {
+      "title": "Multiplayer Battles",
+      "description": "Battle against players worldwide in real-time intense matches",
+      "icon": "fa-users"
+    },
+    {
+      "title": "Epic Graphics",
+      "description": "Stunning visuals and immersive game environment",
+      "icon": "fa-star"
+    },
+    {
+      "title": "Leaderboards",
+      "description": "Compete with friends and climb to the top of global rankings",
+      "icon": "fa-trophy"
+    },
+    {
+      "title": "Daily Rewards",
+      "description": "Earn rewards and special bonuses every single day",
+      "icon": "fa-gift"
+    },
+    {
+      "title": "Regular Updates",
+      "description": "New content, features, and improvements regularly",
+      "icon": "fa-cog"
+    }
+  ],
+  "socialLinks": {
+    "facebook": "#",
+    "twitter": "#",
+    "instagram": "#",
+    "youtube": "#"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "#home"
+    },
+    {
+      "label": "Features",
+      "href": "#features"
+    },
+    {
+      "label": "Download",
+      "href": "#download"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "sampleReviews": [
+    {
+      "rating": 5,
+      "comment": "Amazing game! The battles are so intense and fun!",
+      "author": "Rahul Singh"
+    },
+    {
+      "rating": 5,
+      "comment": "Best multiplayer game I've ever played. Highly recommended!",
+      "author": "Priya Sharma"
+    },
+    {
+      "rating": 5,
+      "comment": "Smooth gameplay and graphics are incredible. Love it!",
+      "author": "Arjun Verma"
+    }
+  ]
+}
